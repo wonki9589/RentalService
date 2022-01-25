@@ -1,8 +1,8 @@
 
 # 1. 사용기술
-Programming Language : JAVA
-Framework : AWT , SWING 
-DB : MariaDB 
+Programming Language : JAVA   
+Framework : AWT , SWING     
+DB : MariaDB        
 DB Tool : DBeaver 
 # 2.개요 
 고가의 신발을 구매하지않아도 신을 수 있도록 빌려주는 서비스
